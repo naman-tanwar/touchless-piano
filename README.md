@@ -5,4 +5,4 @@ The Arduino generates tone based on which ultrasonic sensor has detected the han
 ![N|Solid](https://raw.githubusercontent.com/naman-tanwar/touchless-piano/main/Circuit.png)
 
 # YouTube Video
-https://www.youtube.com/watch?v=ybdjki46qNk
+https://youtu.be/ybdjki46qNk?t=63
